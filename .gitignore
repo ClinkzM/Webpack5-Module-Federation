@@ -1,0 +1,10 @@
+**/node_modules
+/node_modules
+package-lock.json
+**/package-lock.json
+yarn.lock
+**/yarn.lock
+/.idea
+**/.idea
+dist
+**/dist

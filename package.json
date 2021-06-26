@@ -1,7 +1,17 @@
 {
-  "name": "node-starter",
-  "version": "0.0.0",
+  "name": "module-federation",
+  "private": true,
+  "workspaces": {
+    "packages": [
+      "appA",
+      "appB"
+    ]
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "lerna run --parallel start",
+    "build": "lerna run build"
+  },
+  "devDependencies": {
+    "lerna": "^4.0.0"
   }
 }
