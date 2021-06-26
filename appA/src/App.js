@@ -14,7 +14,7 @@ const App = () => {
           backgroundColor: 'greenyellow'
         }}
       >
-        <h1>App1</h1>
+        <h1>App A</h1>
       </div>
       <Suspense fallback={'loading...'}>
         <AppBBilling content="应用A" />

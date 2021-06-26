@@ -16,7 +16,7 @@ const App = props => {
                   backgroundColor: 'cyan'
               }}
           >
-              <h1>App 2</h1>
+              <h1>App B</h1>
           </div>
           <Suspense fallback={'loading...'}>
               <AppAUser content="应用B" />
