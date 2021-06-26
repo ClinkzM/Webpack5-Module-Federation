@@ -1,5 +1,5 @@
 {
-  "name": "module-federation",
+  "name": "webpack5-module-federation",
   "private": true,
   "workspaces": {
     "packages": [
