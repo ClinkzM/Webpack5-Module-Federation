@@ -23,6 +23,12 @@ const App = props => {
           </Suspense>
 
           <Billing />
+          <p />
+          <p />
+          <p />
+          <p />
+
+          <a href={window.appAUrl}>前往应用A</a>
       </div>
 
   );

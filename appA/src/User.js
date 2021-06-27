@@ -8,7 +8,7 @@ const User = props => {
         >
             {content ?
                 <h1>从{content}引入了应用A的用户管理模块</h1>
-                :<h1 style={{color: 'green'}}>应用A正常显示用户管理模块</h1>
+                :<h1 style={{color: 'green'}}>应用A自己引入用户管理模块</h1>
             }
         </div>
     );

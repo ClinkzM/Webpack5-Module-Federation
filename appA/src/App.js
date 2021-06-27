@@ -20,6 +20,11 @@ const App = () => {
         <AppBBilling content="应用A" />
       </Suspense>
         <User />
+        <p />
+        <p />
+        <p />
+        <p />
+        <a href={window.appBUrl}>前往应用B</a>
     </div>
   );
 };
