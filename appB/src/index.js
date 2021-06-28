@@ -1,3 +1,3 @@
-window.appAUrl = "https://webpack5-module-federation--3001.local.webcontainer.io"
+window.appAUrl = "https://clinkzm.github.io/Webpack5-Module-Federation/appA/dist"
 
 import("./bootstrap");

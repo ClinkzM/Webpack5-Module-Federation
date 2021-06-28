@@ -4,6 +4,7 @@ import User from "./User";
 const AppBBilling = React.lazy(() => import('appB/Billing'));
 
 const App = () => {
+    console.log('window.appBUrl', window.appBUrl)
   return (
     <div>
       <div

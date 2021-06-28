@@ -6,5 +6,3 @@ yarn.lock
 **/yarn.lock
 /.idea
 **/.idea
-dist
-**/dist

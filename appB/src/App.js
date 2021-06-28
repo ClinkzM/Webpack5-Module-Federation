@@ -6,6 +6,7 @@ const AppAUser = React.lazy(() => import('appA/User'));
 const App = props => {
   const { content } = props;
   console.log('content', content);
+    console.log('window.appAUrl', window.appAUrl)
   return (
       <div>
           <div

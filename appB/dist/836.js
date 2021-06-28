@@ -1,0 +1,1 @@
+(self.webpackChunkappB=self.webpackChunkappB||[]).push([[836],{836:(e,t,n)=>{"use strict";n.r(t),n.d(t,{default:()=>a});var l=n(471),c=n.n(l);const a=e=>{const{content:t}=e;return console.log("content",t),c().createElement("div",null,t?c().createElement("h1",null,"从",t,"引入了应用B的费用中心模块"):c().createElement("h1",{style:{color:"blue"}},"应用B自己引入费用中心模块"))}}}]);

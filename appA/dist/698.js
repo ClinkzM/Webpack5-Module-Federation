@@ -1,0 +1,1 @@
+(self.webpackChunkappA=self.webpackChunkappA||[]).push([[698],{698:(e,n,t)=>{"use strict";t.r(n),t.d(n,{default:()=>r});var l=t(471),c=t.n(l);const r=e=>{const{content:n}=e;return console.log("content",n),c().createElement("div",null,n?c().createElement("h1",null,"从",n,"引入了应用A的用户管理模块"):c().createElement("h1",{style:{color:"green"}},"应用A自己引入用户管理模块"))}}}]);
